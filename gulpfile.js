@@ -1,7 +1,7 @@
-var gulp = require('gulp'),
-  sass = require('gulp-sass'),
-  rename = require('gulp-rename'),
-  clean = require('gulp-clean-css');
+var gulp  = require('gulp'),
+  sass    = require('gulp-sass'),
+  rename  = require('gulp-rename'),
+  clean   = require('gulp-clean-css');
 
 gulp.task('build', function(){
   return gulp.src('./src/main.scss')
