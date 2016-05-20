@@ -4,7 +4,7 @@
   "authors": [
     "Ashley Narcisse <ashlay49@gmail.com>"
   ],
-  "main": "dist/halp.css",
+  "main": "dist/halp.min.css",
   "moduleType": [],
   "keywords": [
     "css",
