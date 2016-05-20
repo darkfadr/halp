@@ -1,0 +1,41 @@
+/**
+	Halp.css or Halp.scss
+
+  space type:
+    m   -> margin
+    p   -> padding
+
+  direction:
+    t   -> top
+    r   -> right
+    b   -> bottom
+    l   -> left
+
+  size:
+    n   -> none or 0;
+    xs  -> extra small
+    s   -> small
+    m   -> medium
+    l   -> large
+    xl  -> extra large
+
+
+  [type][direction][size]
+
+  <table class="table-responsive mtl">...</table>
+
+  mtl -> Margin Top Large
+  .mtl{
+    margin-top: <preset large size>px
+  }
+
+
+*/
+
+$n: 0;
+$xs: 5px;
+$sm: 10px;
+$md: 15px;
+$lg: 20px;
+$xl: 25px;
+$huge: 50px

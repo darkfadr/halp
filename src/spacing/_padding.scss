@@ -1,0 +1,137 @@
+.p{
+  &n{
+    padding: $n;
+  }
+  &t{
+    &n{
+      padding-top: $n;
+    }
+    &xs{
+      padding-top: $xs;
+    }
+    &s{
+      padding-top: $sm;
+    }
+    &m{
+      padding-top: $md;
+    }
+    &l{
+      padding-top: $lg;
+    }
+    &xl{
+      padding-top: $xl;
+    }
+  }
+  &r{
+    &n{
+      padding-right: $n;
+    }
+    &xs{
+      padding-right: $xs;
+    }
+    &s{
+      padding-right: $sm;
+    }
+    &m{
+      padding-right: $md;
+    }
+    &l{
+      padding-right: $lg;
+    }
+    &xl{
+      padding-right: $xl;
+    }
+  }
+  &b{
+    &n{
+      padding-bottom: $n;
+    }
+    &xs{
+      padding-bottom: $xs;
+    }
+    &s{
+      padding-bottom: $sm;
+    }
+    &m{
+      padding-bottom: $md;
+    }
+    &l{
+      padding-bottom: $lg;
+    }
+    &xl{
+      padding-bottom: $xl;
+    }
+  }
+  &l{
+    &n{
+      padding-left: $n;
+    }
+    &xs{
+      padding-left: $xs;
+    }
+    &s{
+      padding-left: $sm;
+    }
+    &m{
+      padding-left: $md;
+    }
+    &l{
+      padding-left: $lg;
+    }
+    &xl{
+      padding-left: $xl;
+    }
+  }
+  &v{
+    &n{
+      padding-top: $n;
+      padding-bottom: $n;
+    }
+    &xs{
+      padding-top: $xs;
+      padding-bottom: $xs;
+    }
+    &s{
+      padding-top: $sm;
+      padding-bottom: $sm;
+    }
+    &m{
+      padding-top: $md;
+      padding-bottom: $md;
+    }
+    &l{
+      padding-top: $lg;
+      padding-bottom: $lg;
+    }
+    &xl{
+      padding-top: $xl;
+      padding-bottom: $xl;
+    }
+  }
+  &h{
+    &n{
+      padding-left: $n;
+      padding-right: $n;
+    }
+    &xs{
+      padding-left: $xs;
+      padding-right: $xs;
+    }
+    &s{
+      padding-left: $sm;
+      padding-right: $sm;
+    }
+    &m{
+      padding-left: $md;
+      padding-right: $md;
+    }
+    &l{
+      padding-left: $lg;
+      padding-right: $lg;
+    }
+    &xl{
+      padding-left: $xl;
+      padding-right: $xl;
+    }
+  }
+}
