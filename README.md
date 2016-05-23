@@ -34,10 +34,13 @@
   * xl  -> extra large
 ```
 
+`mtl  => margin top large`
+`pm   => padding all medium`
+
 
 ### Examples
 
-`<div class="col-sm-12 mtl"></div>`
+`<div class="col-sm-12 mtl pm"></div>`
 
 ## Development
 ```
