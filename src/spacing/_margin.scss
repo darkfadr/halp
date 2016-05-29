@@ -1,10 +1,44 @@
 .m{
-  &n{
-    margin: $n;
+  &a{
+    &n{
+      margin: $n;
+    }
+    &xs{
+      margin: $xs;
+    }
+    &s{
+      margin: $sm;
+    }
+    &m{
+      margin: $md;
+    }
+    &l{
+      margin: $lg;
+    }
+    &xl{
+      margin: $xl;
+    }
   }
   &t{
     &n{
       margin-top: $n;
+
+      //negative
+      &xs{
+        margin-top: -$xs;
+      }
+      &s{
+        margin-top: -$xs;
+      }
+      &m{
+        margin-top: -$xs;
+      }
+      &l{
+        margin-top: -$xs;
+      }
+      &xl{
+        margin-top: -$xs;
+      }
     }
     &xs{
       margin-top: $xs;

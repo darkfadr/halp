@@ -6,6 +6,7 @@
     p   -> padding
 
   direction:
+    a   -> all
     t   -> top
     r   -> right
     b   -> bottom
@@ -32,10 +33,10 @@
 
 */
 
-$n: 0;
-$xs: 5px;
-$sm: 10px;
-$md: 20px;
-$lg: 30px;
-$xl: 50px;
-$huge: 70px
+$n: 0 !important;
+$xs: 5px !important;
+$sm: 10px !important;
+$md: 20px !important;
+$lg: 30px !important;
+$xl: 50px !important;
+$huge: 70px !important;

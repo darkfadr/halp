@@ -1,6 +1,23 @@
 .p{
-  &n{
-    padding: $n;
+  &a{
+    &n{
+      padding: $n;
+    }
+    &xs{
+      padding: $xs;
+    }
+    &s{
+      padding: $sm;
+    }
+    &m{
+      padding: $md;
+    }
+    &l{
+      padding: $lg;
+    }
+    &xl{
+      padding: $xl;
+    }
   }
   &t{
     &n{
