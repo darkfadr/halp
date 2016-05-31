@@ -21,6 +21,7 @@
   * m   ->  Margin
   * p   -> Padding
 * Direction
+  * a   -> all
   * t   -> top
   * r   -> right
   * b   -> bottom
