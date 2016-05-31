@@ -41,7 +41,7 @@
 
 ### Examples
 
-`<div class="col-sm-12 mtl pm"></div>`
+`<div class="col-sm-12 mtl pam"></div>`
 
 ## Development
 ```
